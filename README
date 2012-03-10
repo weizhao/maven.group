@@ -1,1 +1,2 @@
 mojo project group root
+mvn wei.zhao.mojo.hello:hello-maven-plugin:touch
